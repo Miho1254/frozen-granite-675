@@ -118,4 +118,4 @@ Le bouton vert dans la section Démarrage rapide.
 
 ---
 
-*frozen-granite-675 · Mis à jour 2026-10-08 · Partagé sous licence MIT*
+*frozen-granite-675 · Mis à jour 2026-10-09 · Partagé sous licence MIT*
